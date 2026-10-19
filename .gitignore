@@ -1,0 +1,7 @@
+__pycache__/
+.venv/
+*.xlsx
+*.json
+!**/requirements*.json
+ali_baba_*/
+failed_log.txt
